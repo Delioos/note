@@ -5,7 +5,7 @@ il/elle trouve son sens par sa nature que l'on suis
 
 prenons pour base la théorie des grand nombres
 chaque chiffre de cette suite ne sait pas qu'il sert a normaliser une fonction stable qui ne communique pas
-leur seule point commun est le "set" de règle disposé a leur création
+leur seule point commun est le «set» de règle disposé a leur création
 
 Si nos technique actuellement permettent la simulation d'écosystème simples il est naturel de savoir que les années a suivre ajouterons une suite de paramètre jusque a en arriver a une entité autonome qui multiplié fera office de micro-société incompréhensible et imprévisible par nous
 
